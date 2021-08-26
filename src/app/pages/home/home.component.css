@@ -1,0 +1,28 @@
+.users-container {
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    margin: 8em 0;
+    
+}
+
+.user{
+    display:flex;
+
+}
+
+.user p {
+    font-size: 1 em;
+    font-weight:bold;
+    margin: 0;
+}
+
+.user h4{
+    margin: 0;
+    font-family: 'Shadows into Light', cursive;
+}
+
+.user div{
+    margin-right: 1em;
+}
